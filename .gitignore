@@ -1,0 +1,9 @@
+nbproject/*
+log/*
+tmp/*
+public/data/*
+test/*
+db/schema.rb
+*.war
+.idea
+public/system/*
